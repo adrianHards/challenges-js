@@ -43,7 +43,6 @@ function twoSum(nums, target) {
         return [i, map.get(nums[i])]
     }
   }
-  return map
 };
 
 // twoSum([5,2,3], 7)
