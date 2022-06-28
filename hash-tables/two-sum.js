@@ -1,3 +1,5 @@
+// link to problem: https://leetcode.com/problems/two-sum/
+
 // Given an array of integers (nums) and an integer (target)
 // return the indices of the two numbers that add up to target
 // test case one: nums = [2,7,11,15], target = 9, output: [0,1]
