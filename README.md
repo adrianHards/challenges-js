@@ -8,3 +8,9 @@ My JavaScript solutions to Leetcode problems with notes. Feel free to add commen
 git clone git@github.com:adrianHards/leetcode-js.git
 git status # it should already be tracked by git
 ```
+
+### Update
+
+```
+git pull origin main
+```
