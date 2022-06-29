@@ -1,6 +1,6 @@
 # Leetcode JS
 
-My JavaScript solutions to Leetcode problems with notes. Feel free to add comments/questions!
+JavaScript solutions to Leetcode problems, with notes. Feel free to add comments/questions!
 
 I'm currently working on [hash tables](https://leetcode.com/tag/hash-table/).
 
