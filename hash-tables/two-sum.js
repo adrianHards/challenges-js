@@ -1,11 +1,30 @@
 // link to problem: https://leetcode.com/problems/two-sum/
+// first attempt, no hash map
+function twoSum(nums, target) {
+  for (let i = 0; i < nums.length; i++) {
+    for (let y = i + 1; y < nums.length; y++) {
+      if (nums[i] + nums[y] === target) {
+        return [i, y]
+      }
+    }
+  }
+};
 
-// Given an array of integers (nums) and an integer (target)
-// return the indices of the two numbers that add up to target
-// test case one: nums = [2,7,11,15], target = 9, output: [0,1]
-// test case two: nums = [11,5,5,15], target = 10, output: [1,2]
-// each input is assumed to have exactly one solution
+// second attempt, with hash map
+function twoSum(nums, target) {
+  const map = new Map()
+  for (let i = 0; i < nums.length; i++) {
+    map.set(target - nums[i], i)
+  }
+  for (let i = 0; i < nums.length; i++) {
+    if (map.has(nums[i]) && i !== map.get(nums[i])) {
+      return [i, map.get(nums[i])]
+    }
+  }
+};
 
+// ------------------------------------------
+// with notes
 // first attempt, no hash map
 function twoSum(nums, target) {
   // iterate by 1 over the array, starting at index 0, until index is equal to length of the array
@@ -50,16 +69,10 @@ function twoSum(nums, target) {
 // Map { 3 => 0, 6 => 1 }
 // Map { 3 => 0, 6 => 1, 5 => 2 }
 // Map { 3 => 0, 6 => 1, 5 => 2 }
-// [0, 2]
+// [0, 1]
 
 // index 0 from nums array = 5
 // does the map have a key 5?
-// yes it does, if so, what is it's value? the value is 2
-// return index 0 and the value, 2
-
-// twoSum([3,2,5], 7)
-// Map { 5 => 0 }
-// Map { 5 => 0, 6 => 1 }
-// Map { 5 => 0, 6 => 1, 3 => 2 }
-// Map { 5 => 0, 6 => 1, 3 => 2 }
-// [0, 2]
+// yes it does, because 7 - 2 = 5
+// if so, what's the keys value (i.e. the index from the nums array)? The value is 1
+// return index 0 and the value, 1
