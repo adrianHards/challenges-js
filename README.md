@@ -31,7 +31,7 @@ git pull origin main
 
 #### Hash-Tables
 >[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • Leetcode • Easy <br>
->[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • Leetcode
+>[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • Leetcode • Easy
 <p align="center"><a href="#top">back up</a></p>
 
 #### Strings
