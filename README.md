@@ -16,3 +16,9 @@ git status # it should already be tracked by git
 ```
 git pull origin main
 ```
+
+#### Hash-Tables
+**Easy** <br>
+[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) <br>
+[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js)
+
