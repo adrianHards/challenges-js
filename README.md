@@ -1,5 +1,5 @@
 <div hidden id="top"></div>
-JavaScript solutions to challenges with notes. Feel free to add comments/questions!
+JavaScript solutions to challenges with notes. Feel free to add comments/questions! <br> <br>
 
 I'm currently working on [hash tables](https://leetcode.com/tag/hash-table/).
 
