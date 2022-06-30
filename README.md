@@ -30,6 +30,6 @@ git pull origin main
 
 #### Strings
 **Easy** <br>
->[DNAtoRNA](https://github.com/adrianHards/challenges-js/blob/main/strings/DNAtoRNA.js) • CodeWars
+>[DNAtoRNA](https://github.com/adrianHards/challenges-js/blob/main/strings/DNAtoRNA.js) • CodeWars • 8 kyu
 
 <p align="center"><a href="#top">back up</a></p>
