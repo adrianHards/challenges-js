@@ -1,6 +1,4 @@
-# Leetcode JS
-
-JavaScript solutions to Leetcode problems, with notes. Feel free to add comments/questions!
+JavaScript solutions to challenges with notes. Feel free to add comments/questions!
 
 I'm currently working on [hash tables](https://leetcode.com/tag/hash-table/).
 
@@ -19,6 +17,8 @@ git pull origin main
 
 #### Hash-Tables
 **Easy** <br>
-[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) <br>
-[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js)
+>[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • Leetcode <br>
+>[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • Leetcode
 
+#### Strings
+>[DNAtoRNA](https://github.com/adrianHards/challenges-js/blob/main/strings/DNAtoRNA.js) • CodeWars
