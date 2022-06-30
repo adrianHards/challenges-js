@@ -30,13 +30,11 @@ git pull origin main
 >[dropwhile](https://github.com/adrianHards/challenges-js/blob/main/arrays/dropwhile.js) • CodeWars • 7 kyu
 
 #### Hash-Tables
-**Easy** <br>
->[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • Leetcode <br>
+>[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • Leetcode • Easy <br>
 >[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • Leetcode
 <p align="center"><a href="#top">back up</a></p>
 
 #### Strings
-**Easy** <br>
 >[DNAtoRNA](https://github.com/adrianHards/challenges-js/blob/main/strings/DNAtoRNA.js) • CodeWars • 8 kyu
 
 <p align="center"><a href="#top">back up</a></p>
