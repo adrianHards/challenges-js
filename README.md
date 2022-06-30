@@ -6,6 +6,7 @@ I'm currently working on [hash tables](https://leetcode.com/tag/hash-table/).
 
 ### Table of Contents
 
+* [Arrays](#arrays)
 * [Hash-Tables](#hash-tables)
 * [Strings](#strings)
 
@@ -24,6 +25,9 @@ git status # it should already be tracked by git
 ```
 git pull origin main
 ```
+
+#### Arrays
+>[dropwhile](https://github.com/adrianHards/challenges-js/blob/main/arrays/dropwhile.js) • CodeWars • 7 kyu
 
 #### Hash-Tables
 **Easy** <br>
