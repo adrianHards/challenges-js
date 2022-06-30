@@ -1,6 +1,13 @@
+<div hidden id="top"></div>
 JavaScript solutions to challenges with notes. Feel free to add comments/questions!
 
 I'm currently working on [hash tables](https://leetcode.com/tag/hash-table/).
+
+### Table of Contents
+
+* [Hash-Tables](#hash-tables)
+* [Strings](#strings)
+
 
 ### Setup
 
@@ -19,6 +26,10 @@ git pull origin main
 **Easy** <br>
 >[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • Leetcode <br>
 >[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • Leetcode
+<p align="center"><a href="#top">back up</a></p>
 
 #### Strings
+**Easy** <br>
 >[DNAtoRNA](https://github.com/adrianHards/challenges-js/blob/main/strings/DNAtoRNA.js) • CodeWars
+
+<p align="center"><a href="#top">back up</a></p>
