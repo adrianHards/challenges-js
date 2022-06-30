@@ -6,6 +6,7 @@ I'm currently working on [hash tables](https://leetcode.com/tag/hash-table/).
 
 ### Table of Contents
 
+* [Arrays](#arrays)
 * [Hash-Tables](#hash-tables)
 * [Strings](#strings)
 
@@ -25,14 +26,18 @@ git status # it should already be tracked by git
 git pull origin main
 ```
 
+#### Arrays
+>[dropwhile](https://github.com/adrianHards/challenges-js/blob/main/arrays/dropwhile.js) • CodeWars • 7 kyu
+
+<p align="center"><a href="#top">back up</a></p>
+
 #### Hash-Tables
-**Easy** <br>
->[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • Leetcode <br>
->[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • Leetcode
+>[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • Leetcode • Easy <br>
+>[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • Leetcode • Easy
+
 <p align="center"><a href="#top">back up</a></p>
 
 #### Strings
-**Easy** <br>
 >[DNAtoRNA](https://github.com/adrianHards/challenges-js/blob/main/strings/DNAtoRNA.js) • CodeWars • 8 kyu
 
 <p align="center"><a href="#top">back up</a></p>
