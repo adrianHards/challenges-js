@@ -14,6 +14,7 @@ function dropWhile(arr, pred) {
   return ans
 }
 
+// actual solution
 function dropWhile(arr, pred) {
   // for the length of the array AND while the result of calling the predicate function on the first element of the array is true
   // remove first element from the array with .shift
