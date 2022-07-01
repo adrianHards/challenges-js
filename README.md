@@ -1,6 +1,8 @@
 <div hidden id="top"></div>
 
-JavaScript solutions to challenges with notes. I generally recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but [Codewars](https://www.codewars.com/) and others are nice for learning the basics of a language. Feel free to add comments/questions! And if you find this page helpful, please give it a star! 🌟 <br> <br>
+JavaScript solutions to challenges with notes. I generally recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but [Codewars](https://www.codewars.com/) and others are nice for learning the basics of a language. Feel free to add comments/questions! And if you find this page helpful, please give it a star! 🌟 <br>
+
+The format to the coding challenges listed below is < a link to my solution > • < a link to the problem > • < how hard it is >
 
 ### Table of Contents
 
@@ -21,6 +23,7 @@ git status # it should already be tracked by git
 ```
 git pull origin main
 ```
+<br>
 
 #### Arrays
 >[dropwhile](https://github.com/adrianHards/challenges-js/blob/main/arrays/dropwhile.js) • [CodeWars](https://www.codewars.com/kata/54f9c37106098647f400080a) • 7 kyu
