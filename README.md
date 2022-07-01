@@ -12,21 +12,6 @@ JavaScript solutions to challenges with notes. I generally recommend [LeetCode](
 * [Hash-Tables](#hash-tables)
 * [Strings](#strings)
 
-
-### Setup
-
-```
-git clone git@github.com:adrianHards/leetcode-js.git
-git status # it should already be tracked by git
-```
-
-### Update
-
-```
-git pull origin main
-```
-<br>
-
 #### Arrays
 >[dropwhile](https://github.com/adrianHards/challenges-js/blob/main/arrays/dropwhile.js) • [CodeWars](https://www.codewars.com/kata/54f9c37106098647f400080a) • 7 kyu
 
