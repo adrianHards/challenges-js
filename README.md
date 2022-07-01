@@ -1,16 +1,12 @@
 <div hidden id="top"></div>
 
-JavaScript solutions to challenges with notes. I generally recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but [Codewars](https://www.codewars.com/) and others are nice for learning the basics of a language. Feel free to add comments/questions! <br> <br>
-
-I'm currently working on [hash tables](https://leetcode.com/tag/hash-table/).
+JavaScript solutions to challenges with notes. I generally recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but [Codewars](https://www.codewars.com/) and others are nice for learning the basics of a language. Feel free to add comments/questions! And if you find this page helpful, please give it a star! 🌟 <br> <br>
 
 ### Table of Contents
 
 * [Arrays](#arrays)
 * [Hash-Tables](#hash-tables)
 * [Strings](#strings)
-
-JavaScript solutions to challenges with notes. I generally recommend Leetcode, particulary for interview prep, but [Codewars](https://www.codewars.com/) is nice for learning the basics of a language. Feel free to add comments/questions! <br> <br>
 
 
 ### Setup
