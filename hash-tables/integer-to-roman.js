@@ -19,10 +19,10 @@ function intToRoman(num) {
 	let string = ''
 
     while(num != 0) {
-        for(let i of Object.keys(romans).reverse()){
+        for(let i of Object.keys(romanNumerals).reverse()){
             if(num >= i) {
                 num -= i;
-                string += romans[i];
+                string += romanNumerals[i];
                 break;
             }
         }
