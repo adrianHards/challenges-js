@@ -18,8 +18,9 @@ JavaScript solutions to challenges with notes. I generally recommend [LeetCode](
 <p align="right"><a href="#top">back up</a></p>
 
 #### Hash-Tables
->[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • [LeetCode](https://leetcode.com/problems/two-sum) • Easy <br>
+>[intersection of two linked lists]() • [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) • Easy <br>
 >[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • [LeetCode](https://leetcode.com/problems/roman-to-integer) • Easy <br>
+>[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • [LeetCode](https://leetcode.com/problems/two-sum) • Easy <br>
 >[integers to roman numerals](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/integer-to-roman.js) • [LeetCode](https://leetcode.com/problems/integer-to-roman) • Medium
 
 <p align="right"><a href="#top">back up</a></p>
