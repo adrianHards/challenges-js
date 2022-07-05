@@ -6,7 +6,7 @@ function getIntersectionNode(headA, headB) {
   //
   for (const num in objA) {
     if (objA[num] === objB[num]) {
-      return objA[num] === objB[num]
+      return objA[num]
     }
   }
   return null
