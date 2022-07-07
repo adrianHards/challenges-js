@@ -1,4 +1,19 @@
-// invalid solution
+// correct solution, notes to follow
+function getIntersectionNode(headA, headB) {
+  let pointerA = headA;
+  let pointerB = headB;
+
+  while (pointerA !== pointerB) {
+    pointerA = pointerA ? pointerA.next : headB;
+    pointerB = pointerB ? pointerB.next : headA;
+    console.log('pointerA', pointerA, 'pointerB', pointerB)
+  }
+
+  return pointerA;
+
+};
+
+// invalid solution as a result of misunderstanding the problem
 
 function getIntersectionNode(headA, headB) {
   // convert each array into an object (below is ES8; use Object.assign if not supported)
