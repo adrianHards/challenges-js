@@ -1,4 +1,12 @@
-// correct solution, notes to follow
+// the two lists will intersect at null regardless (see diagram of a linked list)
+// which means they will intersect at an earlier node if they are linked
+// we could start by finding the difference in length of the two lists, and then add pointers to the same nodes
+// instead, we don't need to find exact length of each list, we can have the pointers start at at the head of each list
+// and when they reach null, switch to the head of the other list
+// the two pointers will then go through the two lists in opposite order resulting in them reaching null together
+// see https://www.youtube.com/watch?v=D0X0BONOQhI to understand
+// of course we can use this to find node at which they intersect before null, assuming there is one
+
 function getIntersectionNode(headA, headB) {
   // pointers start at the heads of their respective lists
   let pointerA = headA;
@@ -17,15 +25,6 @@ function getIntersectionNode(headA, headB) {
   return pointerA;
 
 };
-
-// notes:
-// if lists intersect, they will end on the same node
-// if there is no intersection, they will intersect at null (see diagram of a linked list)
-// we could start two pointers to the heads of each list, find the difference in length, and with that start pointers at same node
-// instead, we don't need to find exact length of each list, we can have the pointers of each list start at the other head after reaching null
-// two pointers will then go through the two lists in opposite order to each other resulting in them reaching null together
-// see https://www.youtube.com/watch?v=D0X0BONOQhI to understand
-// of course we can use this to find node at which they intersect before null if there is one
 
 // ---------------------
 
