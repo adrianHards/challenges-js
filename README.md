@@ -30,3 +30,7 @@ JavaScript solutions to challenges with notes. Most people seem to recommend [Le
 >[DNAtoRNA](https://github.com/adrianHards/challenges-js/blob/main/strings/DNAtoRNA.js) • [CodeWars](https://www.codewars.com/kata/5556282156230d0e5e000089) • 8 kyu
 
 <p align="right"><a href="#top">back up</a></p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianHards/challenges-js" id="counter">
+</p>
