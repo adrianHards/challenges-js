@@ -27,8 +27,9 @@ function getIntersectionNode(headA, headB) {
 // see https://www.youtube.com/watch?v=D0X0BONOQhI to understand
 // of course we can use this to find node at which they intersect before null if there is one
 
-// invalid solution as a result of misunderstanding the problem
+// ---------------------
 
+// invalid solution as a result of misunderstanding the problem
 function getIntersectionNode(headA, headB) {
   // convert each array into an object (below is ES8; use Object.assign if not supported)
   const objA = { ...headA }
