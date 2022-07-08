@@ -1,6 +1,6 @@
 <div hidden id="top"></div>
 
-JavaScript solutions to challenges with notes. I generally recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but [Codewars](https://www.codewars.com/) and others are nice for learning the basics of a language. Feel free to add comments/questions! And if you find this page helpful, please give it a star! 🌟 <br>
+JavaScript solutions to challenges with notes. Most people seem to recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but [Codewars](https://www.codewars.com/) and others are nice for learning the basics of a language. Feel free to add comments/questions! And if you find this page helpful, please give it a star! 🌟 <br>
 
 ❗ The format to the coding challenges listed below is: &nbsp; a link to my solution • a link to the problem • how hard it is
 <br>
