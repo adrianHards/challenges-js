@@ -51,3 +51,16 @@ function smallerNumbersThanCurrent(nums) {
 
 // impressive one-liner
 const smallerNumbersThanCurrent = (nums) => nums.map((num) => nums.reduce((accumulator, currentValue) => currentValue < num ? ++accumulator : accumulator, 0));
+// .map creates a new array with the results of calling a function for every element in array (https://www.codecademy.com/resources/docs/javascript/arrays/map)
+// .reduce combines each element of an array, using a specified reducer function, and returns a single value (https://www.codecademy.com/resources/docs/javascript/arrays/reduce)
+// n the current element we are iterating through
+// accumulator is the returned value from the function
+// currentValue is the element being iterated over
+
+// e.g. [2,1,3]
+// num = 2, and currentValue = 1
+// is currentValue(1) less than the num(2)?
+// currentValue is now 3, num is still 2
+// is currentValue(3) less than the num(2)?
+// no, add current accumulator value + 0
+// no more values, map accumulator to nums array in place of num, go to next num
