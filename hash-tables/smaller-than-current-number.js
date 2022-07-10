@@ -18,6 +18,8 @@ function smallerNumbersThanCurrent(nums) {
   return arr
 };
 
+// # -------------------------------------------------------------
+
 // invalid hashMap solution:
 function smallerNumbersThanCurrent(nums) {
   // create an empty hashmap and answer array
@@ -48,6 +50,8 @@ function smallerNumbersThanCurrent(nums) {
 
 // why this doesn't work? .set overwrites keys that are the same
 // e.g. [8,1,2,2,3] will return [4,0,1,3] not [4,0,1,1,3]
+
+// # -------------------------------------------------------------
 
 // impressive one-liner
 const smallerNumbersThanCurrent = (nums) => nums.map((num) => nums.reduce((accumulator, currentValue) => currentValue < num ? ++accumulator : accumulator, 0));
