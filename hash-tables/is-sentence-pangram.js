@@ -25,3 +25,9 @@ const checkIfPangram = (sentence) => {
   // else return true
   return true
 };
+
+// extremely simple solution using Set (Set object lets you store unique values of any type)
+const altCheckIfPangram = (sentence) => {
+  // new Set(sentence) makes an object with a value for each unique letter/value
+  return new Set(sentence).size == 26;
+};
