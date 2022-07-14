@@ -1,6 +1,6 @@
 <div hidden id="top"></div>
 
-JavaScript solutions to challenges with notes. Most people seem to recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but [Codewars](https://www.codewars.com/) and others are nice for learning the basics of a language. Feel free to add comments/questions! And if you find this page helpful, please give it a star! 🌟 
+JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) seem to recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but [Codewars](https://www.codewars.com/) and others are nice for learning the basics of a language. Feel free to add comments/questions! And if you find this page helpful, please give it a star! 🌟 
 <br> 
 <br>
 * 💜 I <strong>strongly</strong> recommend installing the [Quokka](https://quokkajs.com/docs/index.html) extension in VS Code. 
