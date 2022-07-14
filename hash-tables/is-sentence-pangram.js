@@ -1,3 +1,4 @@
+// non optimal solution (a little slow)
 const checkIfPangram = (sentence) => {
   // create a lowercase alphabet array: 1. with 26 empty elements; 2. replacing each with index + 65 which corresponds with; 3. an integer representing the UTF-16 code
   const alphabet = Array.from(Array(26)).map((element, index) => index + 65).map((element) => String.fromCharCode(element).toLowerCase());
@@ -23,5 +24,4 @@ const checkIfPangram = (sentence) => {
 
   // else return true
   return true
-
 };
