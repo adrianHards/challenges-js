@@ -20,7 +20,7 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 
 #### Hash-Tables
 >[intersection of two linked lists](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/intersection-two-linked-lists.js) • [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) • Easy <br>
->[is sentence a pangram](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/is-sentence-pangram.js) • [LeetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) • Easy <br>
+>[is the sentence a pangram](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/is-sentence-pangram.js) • [LeetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) • Easy <br>
 >[jewels and stones](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/jewels-and-stones.js) • [LeetCode](https://leetcode.com/problems/jewels-and-stones) • Easy <br>
 >[number of good pairs](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/number-of-good-pairs.js) • [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) • Easy <br>
 >[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • [LeetCode](https://leetcode.com/problems/roman-to-integer) • Easy <br>
