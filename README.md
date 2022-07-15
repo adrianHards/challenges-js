@@ -18,6 +18,7 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 
 #### Algorithms
 >[quick-sort](https://github.com/adrianHards/challenges-js/blob/main/algorithms/quick-sort.js)
+<p align="right"><a href="#top">back up</a></p>
 
 #### Arrays
 
