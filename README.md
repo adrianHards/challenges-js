@@ -14,6 +14,7 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
   - [Algorithms](#algorithms)
   - [Arrays](#arrays)
   - [Hash-Tables](#hash-tables)
+  - [Sorting](#sorting)
   - [Strings](#strings)
 
 #### Algorithms
@@ -37,6 +38,12 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 >[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • [LeetCode](https://leetcode.com/problems/two-sum) • Easy <br>
 ##### Medium
 >[integers to roman numerals](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/integer-to-roman.js) • [LeetCode](https://leetcode.com/problems/integer-to-roman) • Medium
+
+<p align="right"><a href="#top">back up</a></p>
+
+#### Sorting
+##### Easy
+>[find target indices after sorting array](https://github.com/adrianHards/leetcode-js/blob/main/sorting/find-target-indices-after-sorting-array.js) • [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) • Easy
 
 <p align="right"><a href="#top">back up</a></p>
 
