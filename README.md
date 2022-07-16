@@ -9,12 +9,12 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 <br>
 
 ### Table of Contents
-
-- [Table of Contents](#table-of-contents)
-  - [Algorithms](#algorithms)
-  - [Arrays](#arrays)
-  - [Hash-Tables](#hash-tables)
-  - [Strings](#strings)
+- [Algorithms](#algorithms)
+- [Arrays](#arrays)
+- [Hash-Tables](#hash-tables)
+- [Sorting](#sorting)
+- [Strings](#strings)
+<br>
 
 #### Algorithms
 >[quick-sort](https://github.com/adrianHards/challenges-js/blob/main/algorithms/quick-sort.js)
@@ -37,6 +37,13 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 >[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • [LeetCode](https://leetcode.com/problems/two-sum) • Easy <br>
 ##### Medium
 >[integers to roman numerals](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/integer-to-roman.js) • [LeetCode](https://leetcode.com/problems/integer-to-roman) • Medium
+
+<p align="right"><a href="#top">back up</a></p>
+
+#### Sorting
+##### Easy
+>[find target indices after sorting array](https://github.com/adrianHards/leetcode-js/blob/main/sorting/find-target-indices-after-sorting-array.js) • [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) • Easy
+>[sorting the sentence](https://github.com/adrianHards/leetcode-js/blob/main/sorting/sorting-the-sentence.js) • [LeetCode](https://leetcode.com/problems/sorting-the-sentence/) • Easy
 
 <p align="right"><a href="#top">back up</a></p>
 
