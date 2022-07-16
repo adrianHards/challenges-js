@@ -42,7 +42,7 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 
 #### Sorting
 ##### Easy
->[find target indices after sorting array](https://github.com/adrianHards/leetcode-js/blob/main/sorting/find-target-indices-after-sorting-array.js) • [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) • Easy
+>[find target indices after sorting array](https://github.com/adrianHards/leetcode-js/blob/main/sorting/find-target-indices-after-sorting-array.js) • [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) • Easy <br>
 >[sorting the sentence](https://github.com/adrianHards/leetcode-js/blob/main/sorting/sorting-the-sentence.js) • [LeetCode](https://leetcode.com/problems/sorting-the-sentence/) • Easy
 
 <p align="right"><a href="#top">back up</a></p>
