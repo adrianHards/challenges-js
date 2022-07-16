@@ -9,13 +9,12 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 <br>
 
 ### Table of Contents
-
-- [Table of Contents](#table-of-contents)
-  - [Algorithms](#algorithms)
-  - [Arrays](#arrays)
-  - [Hash-Tables](#hash-tables)
-  - [Sorting](#sorting)
-  - [Strings](#strings)
+- [Algorithms](#algorithms)
+- [Arrays](#arrays)
+- [Hash-Tables](#hash-tables)
+- [Sorting](#sorting)
+- [Strings](#strings)
+<br>
 
 #### Algorithms
 >[quick-sort](https://github.com/adrianHards/challenges-js/blob/main/algorithms/quick-sort.js)
