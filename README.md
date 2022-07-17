@@ -12,6 +12,7 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 - [Algorithms](#algorithms)
 - [Arrays](#arrays)
 - [Hash-Tables](#hash-tables)
+- [JavaScript Methods](#javascript-methods)
 - [Sorting](#sorting)
 - [Strings](#strings)
 <br>
@@ -39,6 +40,11 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 >[integers to roman numerals](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/integer-to-roman.js) • [LeetCode](https://leetcode.com/problems/integer-to-roman) • Medium
 
 <p align="right"><a href="#top">back up</a></p>
+
+#### JavaScript Methods
+>[reduce](https://github.com/adrianHards/challenges-js/blob/main/javascript-methods/reduce.js)
+<p align="right"><a href="#top">back up</a></p>
+
 
 #### Sorting
 ##### Easy
