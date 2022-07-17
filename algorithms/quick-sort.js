@@ -29,7 +29,3 @@ function quickSort(items) {
   const sorted = [...quickSort(LESSER), PIVOT, ...quickSort(GREATER)]
   return sorted
 }
-
-// export { quickSort }
-
-// console.log(quickSort([5, 2, 4, 7]))
