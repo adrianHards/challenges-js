@@ -17,17 +17,17 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 - [Strings](#strings)
 <br>
 
-#### Algorithms
+### Algorithms
 >[quick-sort](https://github.com/adrianHards/challenges-js/blob/main/algorithms/quick-sort.js)
 <p align="right"><a href="#top">back up</a></p>
 
-#### Arrays
+### Arrays
 
 >[dropwhile](https://github.com/adrianHards/challenges-js/blob/main/arrays/dropwhile.js) • [CodeWars](https://www.codewars.com/kata/54f9c37106098647f400080a) • 7 kyu
 
 <p align="right"><a href="#top">back up</a></p>
 
-#### Hash-Tables
+### Hash-Tables
 ##### Easy
 >[intersection of two linked lists](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/intersection-two-linked-lists.js) • [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) • Easy <br>
 >[is the sentence a pangram](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/is-sentence-pangram.js) • [LeetCode](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) • Easy <br>
@@ -41,19 +41,19 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 
 <p align="right"><a href="#top">back up</a></p>
 
-#### JavaScript Methods
+### JavaScript Methods
 >[reduce](https://github.com/adrianHards/challenges-js/blob/main/javascript-methods/reduce.js)
 <p align="right"><a href="#top">back up</a></p>
 
 
-#### Sorting
+### Sorting
 ##### Easy
 >[find target indices after sorting array](https://github.com/adrianHards/leetcode-js/blob/main/sorting/find-target-indices-after-sorting-array.js) • [LeetCode](https://leetcode.com/problems/find-target-indices-after-sorting-array/) • Easy <br>
 >[sorting the sentence](https://github.com/adrianHards/leetcode-js/blob/main/sorting/sorting-the-sentence.js) • [LeetCode](https://leetcode.com/problems/sorting-the-sentence/) • Easy
 
 <p align="right"><a href="#top">back up</a></p>
 
-#### Strings
+### Strings
 
 >[DNAtoRNA](https://github.com/adrianHards/challenges-js/blob/main/strings/DNAtoRNA.js) • [CodeWars](https://www.codewars.com/kata/5556282156230d0e5e000089) • 8 kyu
 
