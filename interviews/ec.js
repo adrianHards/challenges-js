@@ -49,16 +49,30 @@ const testPeople = [
   }
 ]
 
+// function binByArea(people) {
+//   let map = new Map()
+//   people.forEach((person) => {
+//     if (!map.has(person.area)) {
+//       map.set(person.area, [person])
+//     } else {
+//       map.set(person.area, map.get(person.area).concat(person))
+//     }
+//   })
+//   return map
+// }
+
+// with reduce
+
 function binByArea(people) {
-  let map = new Map()
-  people.forEach((person) => {
-    if (!map.has(person.area)) {
-      map.set(person.area, [person])
+  return people.reduce((bins, person) => {
+    if (!bins.has(person.area)) {
+      bins.set(person.area, [person])
     } else {
-      map.set(person.area, map.get(person.area).concat(person))
+      bins.set(person.area, bins.get(person.area).concat(person))
     }
-  })
-  return map
+    console.log(bins)
+    return bins
+  }, new Map())
 }
 
 console.log(binByArea(testPeople))
