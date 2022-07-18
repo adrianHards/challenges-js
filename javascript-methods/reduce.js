@@ -154,3 +154,7 @@ console.log(oddEvenCounts);
 // Well, odd isn't defined. What you should do is either put odd/even in quotes (counts['odd']) or use dot notation (counts.odd).
 
 // Also, since odd and even aren't defined, incrementing them would result into NaN. The initial value should instead be { odd: 0, even: 0 }.
+
+// https://gist.github.com/RakshithNM/7cbc8246c0c41b808bba1690c2a29517
+// https://vmarchesin.medium.com/using-array-prototype-reduce-in-objects-using-javascript-dfcdae538fc8
+// https://bobbyhadz.com/blog/javascript-iterate-map#:~:text=Iterate%20through%20a%20Map%20using,Map%20object%20on%20each%20iteration.
