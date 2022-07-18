@@ -126,31 +126,35 @@ console.log(parseQueryString('api.edyn.care/carers?location=london&gender=m&name
 
 // // pt 2
 
-// // example
-// parseQueryString('api.edyn.care/carers?location=london&gender=m&location=brighton')
-// // returns: {location: ['london', 'brighton'], gender: 'm'}
+function secondParseQueryString(url) {
 
+  map = new Map()
+  const rightSplit = url.split('?')[1]
+  console.log(rightSplit)
 
+  const targetParts = rightSplit.split('&')
+  console.log(targetParts)
 
+  const keyValuePairs = targetParts.map(part => part.split('='))
+  console.log(keyValuePairs)
 
+  for (let part of keyValuePairs) {
+    if (!map.has(part[0])) {
+      map.set(part[0], part[1])
+    } else {
+      map.set(part[0], [map.get(part[0])].concat(part[1]))
+    }
+  }
+  return map
+}
 
-
-
-
-
-
-
-
-
-
-
+console.log(secondParseQueryString('api.edyn.care/carers?location=london&gender=m&location=brighton'))
+// returns: {location: ['london', 'brighton'], gender: 'm'}
 
 // ///// -- ASYNC & CALLBACKS -- /////
 
-
 // // PARALLEL
 // // starts with example
-
 
 // function waitThenValue(timeout, value) {
 //   return function (callback) {
@@ -160,8 +164,6 @@ console.log(parseQueryString('api.edyn.care/carers?location=london&gender=m&name
 //   }
 // }
 
-
-
 // function waitThenFail(timeout, errorMessage) {
 //   return function (callback) {
 //     setTimeout(() => {
@@ -169,10 +171,6 @@ console.log(parseQueryString('api.edyn.care/carers?location=london&gender=m&name
 //     }, timeout)
 //   }
 // }
-
-
-
-
 
 // parallel([
 //   waitThenValue(10, 'hello')
