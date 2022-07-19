@@ -34,7 +34,7 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 >[jewels and stones](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/jewels-and-stones.js) • [LeetCode](https://leetcode.com/problems/jewels-and-stones) • Easy <br>
 >[number of good pairs](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/number-of-good-pairs.js) • [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) • Easy <br>
 >[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • [LeetCode](https://leetcode.com/problems/roman-to-integer) • Easy <br>
->[sales by match (sock merchant)]((https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/sales-by-match.js.js)) • [HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem) • Easy
+>[sales by match (aka the sock merchant)](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/sales-by-match.js.js) • [HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem) • Easy <br>
 >[smaller than current number](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/smaller-than-current-number.js) • [LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) • Easy <br>
 >[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • [LeetCode](https://leetcode.com/problems/two-sum) • Easy <br>
 ##### Medium
