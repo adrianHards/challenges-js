@@ -1,6 +1,6 @@
 <div hidden id="top"></div>
 
-JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) seem to recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but [Codewars](https://www.codewars.com/) and others are nice for learning the basics of a language. I've also included some notes on popular [algorithms](https://github.com/TheAlgorithms/JavaScript) and JavaScript methods. Feel free to add comments/questions! And if you find this page helpful, please give it a star! 🌟
+JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) seem to recommend [LeetCode](https://leetcode.com/), particulary for interview prep, but others are nice for learning the basics of a language. I've also included some notes on popular [algorithms](https://github.com/TheAlgorithms/JavaScript) and JavaScript methods. Feel free to add comments/questions! And if you find this page helpful, please give it a star! 🌟
 <br>
 <br>
 
@@ -34,6 +34,7 @@ JavaScript solutions to challenges with notes. Most people online (i.e. Reddit) 
 >[jewels and stones](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/jewels-and-stones.js) • [LeetCode](https://leetcode.com/problems/jewels-and-stones) • Easy <br>
 >[number of good pairs](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/number-of-good-pairs.js) • [LeetCode](https://leetcode.com/problems/number-of-good-pairs/) • Easy <br>
 >[ruman numerals to integers](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/roman-to-integer.js) • [LeetCode](https://leetcode.com/problems/roman-to-integer) • Easy <br>
+>[sales by match (sock merchant)]((https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/sales-by-match.js.js)) • [HackerRank](https://www.hackerrank.com/challenges/sock-merchant/problem) • Easy
 >[smaller than current number](https://github.com/adrianHards/challenges-js/blob/main/hash-tables/smaller-than-current-number.js) • [LeetCode](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) • Easy <br>
 >[two-sum](https://github.com/adrianHards/leetcode-js/blob/main/hash-tables/two-sum.js) • [LeetCode](https://leetcode.com/problems/two-sum) • Easy <br>
 ##### Medium
